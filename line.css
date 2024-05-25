@@ -106,6 +106,7 @@ section .content .imgbtn a {
     justify-content: center;
     align-items: center;
     font-size: 1rem;
+    color: #333;
 }
 section .content .imgbtn p {
     text-align: center;
